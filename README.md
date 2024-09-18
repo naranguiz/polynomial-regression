@@ -1,4 +1,4 @@
-Regresión Polinomial aplicada a csv de la OMS: Expectativa de vida por país.
+## Regresión Polinomial aplicada a csv de la OMS: Expectativa de vida por país.
 
 El código realiza un pre-procesamiento de los datos y elige algunas columnas escogidas arbitrariamente. Es importante mencionar que para una mejor selección de variables predictoras se debería aplicar una regresión de Lasso, la cual tomaría las mejoras columnas predictoras posibles.
 
