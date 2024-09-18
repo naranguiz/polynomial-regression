@@ -16,7 +16,6 @@ Composición de ingresos de los recursos
 PIB (Producto Interno Bruto)
 Alcohol (consumo per cápita)
 
-# Pasos Realizados:
 
 # Preprocesamiento de Datos
 Imputación de Valores Faltantes: Se manejaron los valores faltantes utilizando imputación por la media o mediana, según la columna.
