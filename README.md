@@ -28,7 +28,7 @@ El grado del polinomio utilizado en el modelo polinomial se elige mediante una v
 # Evaluación 
 
 - Métricas de Error/Desempeño: El desempeño del modelo fue evaluado utilizando métricas como el Error Cuadrático Medio (MSE), Coeficiente R2, Error Absoluto Medio (MAE) y Raíz del Error Cuadrático Medio (RMSE).
-- Visualización: Se generaron gráficos para comparar la distribución de las variables clave antes y después de la imputación de valores faltantes.
+- Visualización: Se generaron gráficos para comparar la distribución de las variables clave antes y después de la imputación de valores faltantes, un gráfico de Residuos y también una visualización de Valores Reales vs Valores Predichos a lo largo de un amplio rango etario.
 
 
 
